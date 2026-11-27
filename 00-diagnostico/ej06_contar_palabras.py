@@ -1,5 +1,4 @@
 frase = input("Ingrese una frase:").lower().split()
-palabras = len(frase)
 frecuencia = {}
 for palabra in frase:
     if palabra in frecuencia:
