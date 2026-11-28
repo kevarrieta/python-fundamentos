@@ -1,0 +1,5 @@
+Libro
+Cuaderno
+Lápiz
+Borrador
+Mochila
